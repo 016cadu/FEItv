@@ -48,9 +48,10 @@ def login():
             if usuario == usuario_arquivo:
                 print("Login realizado!")
                 arquivo.close()
-                return
+                return True
             
     arquivo.close()
 
     print("Usuário ou senha incorretos.")
+    return False
     

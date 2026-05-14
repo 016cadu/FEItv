@@ -1,0 +1,5 @@
+1;Interestelar;169;Ficcao Cientifica;Christopher Nolan;2014
+2;Clube da Luta;139;Drama;David Fincher;1999
+3;The Batman;176;Acao;Matt Reeves;2022
+4;Pulp Fiction;154;Crime;Quentin Tarantino;1994
+5;Whiplash;107;Drama;Damien Chazelle;2014
