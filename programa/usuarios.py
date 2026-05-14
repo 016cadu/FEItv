@@ -10,8 +10,10 @@ def cadastrar_usuario():
     for linha in arquivo:
 
         dados = linha.split(";") 
+        if len(dados) < 2:
+            continue
 
-        usuario_existente = dados[0] # Linha 12-14: Apoio de IA, pois não sabia como diferenciar um usuário já existente.
+        usuario_existente = dados[0]
         
         if usuario == usuario_existente:
             print("Esse usuário já existe.")
@@ -39,6 +41,8 @@ def login():
     for linha in arquivo:
         
         dados = linha.split(";")
+        if len(dados) < 2:
+            continue
 
         usuario_arquivo = dados[0]
         senha_arquivo = dados[1]
@@ -48,10 +52,10 @@ def login():
             if usuario == usuario_arquivo:
                 print("Login realizado!")
                 arquivo.close()
-                return True
+                return usuario
             
     arquivo.close()
 
     print("Usuário ou senha incorretos.")
-    return False
+    return None
     

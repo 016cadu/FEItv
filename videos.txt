@@ -3,3 +3,99 @@
 3;The Batman;176;Acao;Matt Reeves;2022
 4;Pulp Fiction;154;Crime;Quentin Tarantino;1994
 5;Whiplash;107;Drama;Damien Chazelle;2014
+6;O Poderoso Chefao;175;Crime;Francis Ford Coppola;1972
+7;Cidade de Deus;130;Crime;Fernando Meirelles;2002
+8;Parasita;132;Suspense;Bong Joon-ho;2019
+9;O Senhor dos Aneis A Sociedade do Anel;178;Fantasia;Peter Jackson;2001
+10;O Senhor dos Aneis As Duas Torres;179;Fantasia;Peter Jackson;2002
+11;O Senhor dos Aneis O Retorno do Rei;201;Fantasia;Peter Jackson;2003
+12;Batman O Cavaleiro das Trevas;152;Acao;Christopher Nolan;2008
+13;Coringa;122;Drama;Todd Phillips;2019
+14;Duna;155;Ficcao Cientifica;Denis Villeneuve;2021
+15;Duna Parte Dois;166;Ficcao Cientifica;Denis Villeneuve;2024
+16;Blade Runner 2049;164;Ficcao Cientifica;Denis Villeneuve;2017
+17;Matrix;136;Ficcao Cientifica;Lana Wachowski;1999
+18;Matrix Reloaded;138;Ficcao Cientifica;Lana Wachowski;2003
+19;Matrix Revolutions;129;Ficcao Cientifica;Lana Wachowski;2003
+20;Forrest Gump;142;Drama;Robert Zemeckis;1994
+21;A Espera de um Milagre;189;Drama;Frank Darabont;1999
+22;O Resgate do Soldado Ryan;169;Guerra;Steven Spielberg;1998
+23;Gladiador;155;Acao;Ridley Scott;2000
+24;Top Gun Maverick;131;Acao;Joseph Kosinski;2022
+25;Mad Max Estrada da Furia;120;Acao;George Miller;2015
+26;John Wick;101;Acao;Chad Stahelski;2014
+27;John Wick 2;122;Acao;Chad Stahelski;2017
+28;John Wick 3 Parabellum;131;Acao;Chad Stahelski;2019
+29;John Wick 4;169;Acao;Chad Stahelski;2023
+30;Vingadores Ultimato;181;Super Heroi;Anthony Russo;2019
+31;Vingadores Guerra Infinita;149;Super Heroi;Anthony Russo;2018
+32;Homem Aranha Sem Volta Para Casa;148;Super Heroi;Jon Watts;2021
+33;Homem de Ferro;126;Super Heroi;Jon Favreau;2008
+34;Capitao America Guerra Civil;147;Super Heroi;Anthony Russo;2016
+35;Django Livre;165;Western;Quentin Tarantino;2012
+36;Bastardos Inglorios;153;Guerra;Quentin Tarantino;2009
+37;Kill Bill Volume 1;111;Acao;Quentin Tarantino;2003
+38;Kill Bill Volume 2;136;Acao;Quentin Tarantino;2004
+39;Seven Os Sete Crimes Capitais;127;Suspense;David Fincher;1995
+40;Garota Exemplar;149;Suspense;David Fincher;2014
+41;Zodiaco;157;Suspense;David Fincher;2007
+42;O Lobo de Wall Street;180;Comedia;Martin Scorsese;2013
+43;Taxi Driver;114;Drama;Martin Scorsese;1976
+44;Os Bons Companheiros;145;Crime;Martin Scorsese;1990
+45;Ilha do Medo;138;Suspense;Martin Scorsese;2010
+46;O Irlandes;209;Crime;Martin Scorsese;2019
+47;A Origem;148;Ficcao Cientifica;Christopher Nolan;2010
+48;Tenet;150;Ficcao Cientifica;Christopher Nolan;2020
+49;Memento;113;Suspense;Christopher Nolan;2000
+50;O Grande Truque;130;Drama;Christopher Nolan;2006
+51;1917;119;Guerra;Sam Mendes;2019
+52;Skyfall;143;Acao;Sam Mendes;2012
+53;Avatar;162;Ficcao Cientifica;James Cameron;2009
+54;Avatar O Caminho da Agua;192;Ficcao Cientifica;James Cameron;2022
+55;Titanic;194;Romance;James Cameron;1997
+56;Alien O Oitavo Passageiro;117;Terror;Ridley Scott;1979
+57;Aliens O Resgate;137;Terror;James Cameron;1986
+58;O Exorcista;122;Terror;William Friedkin;1973
+59;Hereditario;127;Terror;Ari Aster;2018
+60;Midsommar;148;Terror;Ari Aster;2019
+61;Corra;104;Terror;Jordan Peele;2017
+62;Nope;130;Suspense;Jordan Peele;2022
+63;Pantera Negra;134;Super Heroi;Ryan Coogler;2018
+64;Creed Nascido Para Lutar;133;Drama;Ryan Coogler;2015
+65;Rocky Um Lutador;119;Drama;John G Avildsen;1976
+66;Rocky Balboa;102;Drama;Sylvester Stallone;2006
+67;Creed 3;116;Drama;Michael B Jordan;2023
+68;Toy Story;81;Animacao;John Lasseter;1995
+69;Toy Story 2;92;Animacao;John Lasseter;1999
+70;Toy Story 3;103;Animacao;Lee Unkrich;2010
+71;Toy Story 4;100;Animacao;Josh Cooley;2019
+72;Procurando Nemo;100;Animacao;Andrew Stanton;2003
+73;Divertida Mente;95;Animacao;Pete Docter;2015
+74;Up Altas Aventuras;96;Animacao;Pete Docter;2009
+75;Shrek;90;Animacao;Andrew Adamson;2001
+76;Shrek 2;93;Animacao;Andrew Adamson;2004
+77;Como Treinar o Seu Dragao;98;Animacao;Dean DeBlois;2010
+78;Frozen Uma Aventura Congelante;102;Animacao;Chris Buck;2013
+79;Moana Um Mar de Aventuras;107;Animacao;Ron Clements;2016
+80;Ratatouille;111;Animacao;Brad Bird;2007
+81;Os Incriveis;115;Animacao;Brad Bird;2004
+82;Os Incriveis 2;118;Animacao;Brad Bird;2018
+83;La La Land Cantando Estacoes;128;Musical;Damien Chazelle;2016
+84;Bohemian Rhapsody;134;Biografia;Bryan Singer;2018
+85;Oppenheimer;180;Biografia;Christopher Nolan;2023
+86;A Rede Social;120;Drama;David Fincher;2010
+87;Steve Jobs;122;Biografia;Danny Boyle;2015
+88;O Jogo da Imitação;114;Biografia;Morten Tyldum;2014
+89;A Teoria de Tudo;123;Biografia;James Marsh;2014
+90;Jurassic Park Parque dos Dinossauros;127;Aventura;Steven Spielberg;1993
+91;Jurassic World;124;Aventura;Colin Trevorrow;2015
+92;Indiana Jones e Os Caçadores da Arca Perdida;115;Aventura;Steven Spielberg;1981
+93;Piratas do Caribe A Maldicao do Perola Negra;143;Aventura;Gore Verbinski;2003
+94;Harry Potter e a Pedra Filosofal;152;Fantasia;Chris Columbus;2001
+95;Harry Potter e o Prisioneiro de Azkaban;142;Fantasia;Alfonso Cuaron;2004
+96;Harry Potter e as Reliquias da Morte Parte 2;130;Fantasia;David Yates;2011
+97;Star Wars Uma Nova Esperanca;121;Ficcao Cientifica;George Lucas;1977
+98;Star Wars O Imperio Contra Ataca;124;Ficcao Cientifica;Irvin Kershner;1980
+99;Star Wars O Retorno de Jedi;131;Ficcao Cientifica;Richard Marquand;1983
+100;Rogue One Uma Historia Star Wars;133;Ficcao Cientifica;Gareth Edwards;2016
+

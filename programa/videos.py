@@ -1,6 +1,30 @@
+from curtidas import curtir_video, descurtir_video
+from favoritos import adc_video_playlist
+
 ARQUIVO_VIDEOS = "videos.txt"
 
-def listar_videos():
+def menu_video(usuario, id_video):
+    while True:
+        print("\n1 - Curtir")
+        print("2 - Descurtir")
+        print("3 - Adicionar à playlist")
+        print("0 - Voltar")
+
+        esc = input("Escolha: ")
+
+        if esc == "1":
+            curtir_video(usuario, id_video)
+
+        elif esc == "2":
+            descurtir_video(usuario, id_video)
+
+        elif esc == "3":
+            adc_video_playlist(usuario, id_video)
+
+        elif esc == "0":
+            break
+
+def listar_videos(usuario):
     arquivo = open(ARQUIVO_VIDEOS, "r")
 
     print("\n--- CATÁLOGO FEITV ---\n")
@@ -8,6 +32,8 @@ def listar_videos():
     for linha in arquivo:
         
         dados = linha.split(";")
+        if len(dados) < 6:
+            continue
         id_video = dados[0]
         titulo = dados[1]
         duracao = dados[2]
@@ -25,7 +51,12 @@ def listar_videos():
 
     arquivo.close()
 
-def buscar_video():
+    id_video = input("\nDigite o ID do vídeo (0 para voltar): ")
+
+    if id_video != "0":
+        menu_video(usuario, id_video)
+
+def buscar_video(usuario):
     busca = input("Digite o nome do filme: ")
     arquivo = open(ARQUIVO_VIDEOS, "r")
 
@@ -33,6 +64,9 @@ def buscar_video():
 
     for linha in arquivo:
         dados = linha.split(";")
+        if len(dados) < 6:
+            continue
+        id_video = dados[0]
         titulo = dados[1]
 
         if busca.lower() in titulo.lower():
@@ -46,6 +80,8 @@ def buscar_video():
             print("Diretor:", dados[4])
             print("Ano:", dados[5])
             print("---------------------------")
+
+            menu_video(usuario, id_video)
 
     arquivo.close()
 
