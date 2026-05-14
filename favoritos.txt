@@ -1,2 +1,7 @@
 cadu;melhores;3
 cadu;melhores;84
+teste;teste de playlist;67
+teste;teste de playlist;54
+teste;teste de playlist;85
+teste;playlist 2;44
+teste;playlist 2;12
