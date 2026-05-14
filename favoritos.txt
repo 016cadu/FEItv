@@ -5,3 +5,5 @@ teste;teste de playlist;54
 teste;teste de playlist;85
 teste;playlist 2;44
 teste;playlist 2;12
+testevideo;video;3
+testevideo;video;45
